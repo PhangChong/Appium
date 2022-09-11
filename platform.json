@@ -2,7 +2,7 @@
 "platformName": "Android",
   "platformVersion": "7.1.1",
   "deviceName": "localhost:5555",
-  "appPackage": "com.seafile.seadroid2",
+  "appPackage": "com.xx.xxx",
   "appActivity": ".ui.activity.BrowserActivity",
   "noSign": "true",
   "noReset": "true"
